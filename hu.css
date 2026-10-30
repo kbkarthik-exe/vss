@@ -1,0 +1,8 @@
+.sw:hover{
+    padding: 2px;
+    background-color: aliceblue;
+    margin: 20px;
+    border: 20px solid beige;
+    direction: rtl;
+
+}
